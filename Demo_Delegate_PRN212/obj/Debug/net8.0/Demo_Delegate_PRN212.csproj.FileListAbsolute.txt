@@ -1,0 +1,14 @@
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo_Delegate_PRN212\Demo_Delegate_PRN212\bin\Debug\net8.0\Demo_Delegate_PRN212.exe
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo_Delegate_PRN212\Demo_Delegate_PRN212\bin\Debug\net8.0\Demo_Delegate_PRN212.deps.json
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo_Delegate_PRN212\Demo_Delegate_PRN212\bin\Debug\net8.0\Demo_Delegate_PRN212.runtimeconfig.json
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo_Delegate_PRN212\Demo_Delegate_PRN212\bin\Debug\net8.0\Demo_Delegate_PRN212.dll
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo_Delegate_PRN212\Demo_Delegate_PRN212\bin\Debug\net8.0\Demo_Delegate_PRN212.pdb
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo_Delegate_PRN212\Demo_Delegate_PRN212\obj\Debug\net8.0\Demo_Delegate_PRN212.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo_Delegate_PRN212\Demo_Delegate_PRN212\obj\Debug\net8.0\Demo_Delegate_PRN212.AssemblyInfoInputs.cache
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo_Delegate_PRN212\Demo_Delegate_PRN212\obj\Debug\net8.0\Demo_Delegate_PRN212.AssemblyInfo.cs
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo_Delegate_PRN212\Demo_Delegate_PRN212\obj\Debug\net8.0\Demo_Delegate_PRN212.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo_Delegate_PRN212\Demo_Delegate_PRN212\obj\Debug\net8.0\Demo_Delegate_PRN212.dll
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo_Delegate_PRN212\Demo_Delegate_PRN212\obj\Debug\net8.0\refint\Demo_Delegate_PRN212.dll
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo_Delegate_PRN212\Demo_Delegate_PRN212\obj\Debug\net8.0\Demo_Delegate_PRN212.pdb
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo_Delegate_PRN212\Demo_Delegate_PRN212\obj\Debug\net8.0\Demo_Delegate_PRN212.genruntimeconfig.cache
+D:\UNIVERSITY\Sem5\PRN212\CODE\Demo_Delegate_PRN212\Demo_Delegate_PRN212\obj\Debug\net8.0\ref\Demo_Delegate_PRN212.dll

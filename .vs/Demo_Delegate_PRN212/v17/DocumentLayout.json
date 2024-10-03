@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Demo_Delegate_PRN212\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1C163D-A76B-495A-9DB2-3DEE55E1C9AF}|Demo_Delegate_PRN212\\Demo_Delegate_PRN212.csproj|d:\\university\\sem5\\prn212\\code\\demo_delegate_prn212\\demo_delegate_prn212\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1C163D-A76B-495A-9DB2-3DEE55E1C9AF}|Demo_Delegate_PRN212\\Demo_Delegate_PRN212.csproj|solutionrelative:demo_delegate_prn212\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1C163D-A76B-495A-9DB2-3DEE55E1C9AF}|Demo_Delegate_PRN212\\Demo_Delegate_PRN212.csproj|d:\\university\\sem5\\prn212\\code\\demo_delegate_prn212\\demo_delegate_prn212\\lab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1C163D-A76B-495A-9DB2-3DEE55E1C9AF}|Demo_Delegate_PRN212\\Demo_Delegate_PRN212.csproj|solutionrelative:demo_delegate_prn212\\lab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab.cs",
+              "DocumentMoniker": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Demo_Delegate_PRN212\\Demo_Delegate_PRN212\\Lab.cs",
+              "RelativeDocumentMoniker": "Demo_Delegate_PRN212\\Lab.cs",
+              "ToolTip": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Demo_Delegate_PRN212\\Demo_Delegate_PRN212\\Lab.cs",
+              "RelativeToolTip": "Demo_Delegate_PRN212\\Lab.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:43:02.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Demo_Delegate_PRN212\\Demo_Delegate_PRN212\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_Delegate_PRN212\\Program.cs",
+              "ToolTip": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Demo_Delegate_PRN212\\Demo_Delegate_PRN212\\Program.cs",
+              "RelativeToolTip": "Demo_Delegate_PRN212\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBkAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:13:52.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

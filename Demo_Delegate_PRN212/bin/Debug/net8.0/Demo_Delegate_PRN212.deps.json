@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Demo_Delegate_PRN212/1.0.0": {
+        "runtime": {
+          "Demo_Delegate_PRN212.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo_Delegate_PRN212/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
